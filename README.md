@@ -116,3 +116,10 @@ I'm a **Senior Software Engineer** with **8 years of experience** building softw
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="" />
+
+
+## Personal Portfolio
+
+Explore my professional experience, technical skills and selected projects.
+
+[Visit My Portfolio](https://rananjaya.github.io)
