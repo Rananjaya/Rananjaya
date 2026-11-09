@@ -122,4 +122,4 @@ I'm a **Senior Software Engineer** with **8 years of experience** building softw
 
 Explore my professional experience, technical skills and selected projects.
 
-[Visit My Portfolio](https://rananjaya.github.io)
+[Visit My Portfolio](https://rananjaya.github.io/#home)
